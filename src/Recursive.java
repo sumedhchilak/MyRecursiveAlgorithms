@@ -5,10 +5,6 @@ import java.util.Arrays;
 import java.awt.Graphics;
 import java.awt.Color;
 
-/**
- * Various recursive methods to be implemented. Given shell file for CS314
- * assignment.
- */
 public class Recursive {
 
 	/**
