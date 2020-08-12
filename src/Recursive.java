@@ -1,22 +1,3 @@
-/*  Student information for assignment:
- *
- *  On OUR honor, Kaustub Navalady and Sumedh Chilakamarri, this programming assignment is OUR own work
- *  and WE have not provided this code to any other student.
- *
- *  Number of slip days used: 0
- *
- *  Student 1: Kaustub Navalady
- *  UTEID: kan2235
- *  email address: kaustub.nvd@gmail.com
- *  Grader name: Amir
- *  Section number: 50315
- *
- *  Student 2: Sumedh Chilakamarri
- *  UTEID: ssc2536
- *  email address: sumedh.chilak@utexas.edu
- *
- */
-
 //imports
 
 import java.util.ArrayList;
